@@ -17,6 +17,12 @@ were split. Per-case scenes, actions, dimensions, units and reachable masks
 are retained without numerical changes. `verification/parity.json` contains
 916 saved reference fixtures used by the UI tests; it is not loaded by the gym.
 
+Each process mode includes an `example` action array and `example_meta`. Simple
+shapes use report-authored teaching sequences. Industrial examples are the
+report's deterministic greedy geometric baselines: maximize newly removed
+sampled excess, then prefer shorter reach and action ID. These examples are
+explanatory geometric replays, not optimal or manufacturing-recommended routes.
+
 Run `python verify.py` to check every release file against the manifest.
 The UI additionally validates supported schemas, geometry dimensions, action
 references and downloaded bytes before constructing a session.
