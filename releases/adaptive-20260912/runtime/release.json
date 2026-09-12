@@ -1,0 +1,90 @@
+{
+  "schema": "autocam-ui-assets-1",
+  "files": [
+    {
+      "path": "comparison.json",
+      "sha256": "2ad3c97d4b452278221ed073b8e019059d23d8eb91d5cc058e3b785ed3ba8e85",
+      "size_bytes": 207
+    },
+    {
+      "path": "high-index-task.json",
+      "sha256": "4e41592310182172a540ef4acc11316ec5b49452c061e903b0ce718da0797ffb",
+      "size_bytes": 4569
+    },
+    {
+      "path": "initial.bin",
+      "sha256": "1eec973a542352d045d0d13625c24ca266f1c92d663af4fae6005350554b53e0",
+      "size_bytes": 1660860
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "6dd95c10863076edf5e626692dc060f19a3976f1af7ab6e66a8f47f3a67bd42e",
+      "size_bytes": 1690
+    },
+    {
+      "path": "python-code.zip",
+      "sha256": "ff5d11c87d86fb0421029428c6579600bde678c427901d40a7bbf39ec7c16c53",
+      "size_bytes": 1268411
+    },
+    {
+      "path": "runtime/numpy-2.4.6-cp314-cp314-pyemscripten_2026_0_wasm32.whl",
+      "sha256": "32959d4137cec8143d75016d029281df3d2e80a232896ed903c2b59e1c44ee9f",
+      "size_bytes": 2918760
+    },
+    {
+      "path": "runtime/pyodide-lock.json",
+      "sha256": "3fdaef09e9e365c85e002737720f8d0ab8f278c1c244a2dde6a37663cf488ad4",
+      "size_bytes": 114440
+    },
+    {
+      "path": "runtime/pyodide.asm.mjs",
+      "sha256": "2ac5eba365ec12839c75c03b39b3be1dd63b798852cc460b014b52238be042f7",
+      "size_bytes": 1250344
+    },
+    {
+      "path": "runtime/pyodide.asm.wasm",
+      "sha256": "3a0a00dfeaa348ac20f9ef09904233d32d33f644339662d4af368f8a2010f37a",
+      "size_bytes": 9598218
+    },
+    {
+      "path": "runtime/pyodide.mjs",
+      "sha256": "69e3f6ccec3e14b465df60be577ca62f536251406b9a00cce019eac5252a2495",
+      "size_bytes": 17931
+    },
+    {
+      "path": "runtime/python_stdlib.zip",
+      "sha256": "80c5be6babfe03297069703410c3c29404dcf2525d2b128746bae5536f94831f",
+      "size_bytes": 2545564
+    },
+    {
+      "path": "runtime/runtime-files.json",
+      "sha256": "f1015f2ce43b39a7af29c9882106e4988138d751937b762cff98b14a2b4959b1",
+      "size_bytes": 1915
+    },
+    {
+      "path": "task.json",
+      "sha256": "134f699413254b76ad6873a65d30385bb75a97bac67e9811db6ad1c3b3d2aebc",
+      "size_bytes": 4567
+    },
+    {
+      "path": "turn_four_faces/initial.bin",
+      "sha256": "9b36c70dc4df227f23e7d11205b8defbf42435598f73b4ec303294e32c561e95",
+      "size_bytes": 27682185
+    },
+    {
+      "path": "turn_four_faces/task.json",
+      "sha256": "bcbb94cf12ede9c892cde7ba2d3e5560686f506bf83674b987648a005bf6890d",
+      "size_bytes": 10324
+    },
+    {
+      "path": "volume-query.mjs",
+      "sha256": "783e7c77f06714c744f8047b258359bb6238d39a1944ce4a6b088f87de6c90fc",
+      "size_bytes": 14525
+    },
+    {
+      "path": "volume-query.wasm",
+      "sha256": "6c2fc781e3a158dd56b2af1726335b05f70eb5270079804fabdbb171cc1a896e",
+      "size_bytes": 31350
+    }
+  ]
+}

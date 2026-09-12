@@ -1,0 +1,65 @@
+{
+  "schema": "autocam-ui-assets-1",
+  "files": [
+    {
+      "path": "cad-audit.mjs",
+      "sha256": "8832bd6674cc498733704c15dc622731c66944f676c21fadeb7a67be84249946",
+      "size_bytes": 142223
+    },
+    {
+      "path": "cad-audit.wasm",
+      "sha256": "d22be2350b068a75dae9d9ad6d848a83748b9d172ed7681ad222bb7c262c8630",
+      "size_bytes": 14594206
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "42759ee29110fc35ca14b3266486d333f1d88cc8286d78d292a447d467258cf8",
+      "size_bytes": 1902
+    },
+    {
+      "path": "python-code.zip",
+      "sha256": "ff5d11c87d86fb0421029428c6579600bde678c427901d40a7bbf39ec7c16c53",
+      "size_bytes": 1268411
+    },
+    {
+      "path": "runtime/numpy-2.4.6-cp314-cp314-pyemscripten_2026_0_wasm32.whl",
+      "sha256": "32959d4137cec8143d75016d029281df3d2e80a232896ed903c2b59e1c44ee9f",
+      "size_bytes": 2918760
+    },
+    {
+      "path": "runtime/pyodide-lock.json",
+      "sha256": "3fdaef09e9e365c85e002737720f8d0ab8f278c1c244a2dde6a37663cf488ad4",
+      "size_bytes": 114440
+    },
+    {
+      "path": "runtime/pyodide.asm.mjs",
+      "sha256": "2ac5eba365ec12839c75c03b39b3be1dd63b798852cc460b014b52238be042f7",
+      "size_bytes": 1250344
+    },
+    {
+      "path": "runtime/pyodide.asm.wasm",
+      "sha256": "3a0a00dfeaa348ac20f9ef09904233d32d33f644339662d4af368f8a2010f37a",
+      "size_bytes": 9598218
+    },
+    {
+      "path": "runtime/pyodide.mjs",
+      "sha256": "69e3f6ccec3e14b465df60be577ca62f536251406b9a00cce019eac5252a2495",
+      "size_bytes": 17931
+    },
+    {
+      "path": "runtime/python_stdlib.zip",
+      "sha256": "80c5be6babfe03297069703410c3c29404dcf2525d2b128746bae5536f94831f",
+      "size_bytes": 2545564
+    },
+    {
+      "path": "runtime/runtime-files.json",
+      "sha256": "f1015f2ce43b39a7af29c9882106e4988138d751937b762cff98b14a2b4959b1",
+      "size_bytes": 1915
+    },
+    {
+      "path": "worker.mjs",
+      "sha256": "f54a62f2a80ecc9b5ac9bb633ddc85d63eb0bb23f1e104d1c51d723d394625fe",
+      "size_bytes": 15097
+    }
+  ]
+}

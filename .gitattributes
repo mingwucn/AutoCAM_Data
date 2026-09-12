@@ -1,2 +1,5 @@
 * text=auto eol=lf
 *.png binary
+
+# Runtime release hashes bind exact bytes, including line endings.
+releases/adaptive-20260912/** -text
