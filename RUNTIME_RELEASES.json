@@ -1,0 +1,15 @@
+{
+  "schema": "autocam-runtime-releases-1",
+  "releases": [
+    {
+      "path": "releases/adaptive-20260912/runtime/release.json",
+      "sha256": "dc5b2156640702d11db84f1a6fddd97161cd0425dc51cd523ecba513a193c7d0",
+      "size_bytes": 2834
+    },
+    {
+      "path": "releases/adaptive-20260912/cad/release.json",
+      "sha256": "d167ed7cac616a9f2c4ed0bb15192960e43730efe1fd09ba3e1c2428ade70de5",
+      "size_bytes": 2029
+    }
+  ]
+}

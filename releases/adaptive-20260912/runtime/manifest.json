@@ -1,0 +1,54 @@
+{
+  "schema": "adaptive-ui-runtime-build-1",
+  "codeSHA256": "ff5d11c87d86fb0421029428c6579600bde678c427901d40a7bbf39ec7c16c53",
+  "cases": [
+    {
+      "id": "turn_four_faces",
+      "title": "Turn, then mill four indexed faces",
+      "seed": 0,
+      "task": {
+        "path": "turn_four_faces/task.json",
+        "sha256": "bcbb94cf12ede9c892cde7ba2d3e5560686f506bf83674b987648a005bf6890d"
+      },
+      "initial": {
+        "path": "turn_four_faces/initial.bin",
+        "sha256": "9b36c70dc4df227f23e7d11205b8defbf42435598f73b4ec303294e32c561e95"
+      }
+    },
+    {
+      "id": "common_groove",
+      "title": "Curved groove: ball tip or indexed flank",
+      "seed": 0,
+      "task": {
+        "path": "task.json",
+        "sha256": "134f699413254b76ad6873a65d30385bb75a97bac67e9811db6ad1c3b3d2aebc"
+      },
+      "initial": {
+        "path": "initial.bin",
+        "sha256": "1eec973a542352d045d0d13625c24ca266f1c92d663af4fae6005350554b53e0"
+      },
+      "comparison": {
+        "kind": "equivalent-groove-1",
+        "highTask": {
+          "path": "high-index-task.json",
+          "sha256": "4e41592310182172a540ef4acc11316ec5b49452c061e903b0ce718da0797ffb"
+        },
+        "estimates": {
+          "path": "comparison.json",
+          "sha256": "2ad3c97d4b452278221ed073b8e019059d23d8eb91d5cc058e3b785ed3ba8e85"
+        }
+      }
+    }
+  ],
+  "historyQuery": true,
+  "volumeQuery": {
+    "module": {
+      "path": "volume-query.mjs",
+      "sha256": "783e7c77f06714c744f8047b258359bb6238d39a1944ce4a6b088f87de6c90fc"
+    },
+    "wasm": {
+      "path": "volume-query.wasm",
+      "sha256": "6c2fc781e3a158dd56b2af1726335b05f70eb5270079804fabdbb171cc1a896e"
+    }
+  }
+}
