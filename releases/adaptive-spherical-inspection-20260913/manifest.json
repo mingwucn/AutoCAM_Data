@@ -1,0 +1,61 @@
+{
+  "schema": "adaptive-cad-ui-assets-1",
+  "worker_sha256": "bbe1e8c1f653022bdb2487473bb077be2684d891688ef19b317ea52f6c33f85a",
+  "files": [
+    {
+      "path": "python-code.zip",
+      "size": 1369129,
+      "sha256": "77861d06f4c2cd80490641aa1d0dc6b5a2d71c393cf5ab077ab67126ae0511ca"
+    },
+    {
+      "path": "cad-audit.mjs",
+      "size": 142223,
+      "sha256": "ea3e41c16e02e3f5e25ceb1b3605a2176e530f2f11f4aebc1729b6fdf6ded19b"
+    },
+    {
+      "path": "cad-audit.wasm",
+      "size": 14620193,
+      "sha256": "b2b88c899bd2f129291f97ea81e9b82237fe71542bb527332f6bb83463cd8c99"
+    },
+    {
+      "path": "runtime/pyodide.mjs",
+      "size": 17931,
+      "sha256": "69e3f6ccec3e14b465df60be577ca62f536251406b9a00cce019eac5252a2495"
+    },
+    {
+      "path": "runtime/pyodide.asm.mjs",
+      "size": 1250344,
+      "sha256": "2ac5eba365ec12839c75c03b39b3be1dd63b798852cc460b014b52238be042f7"
+    },
+    {
+      "path": "runtime/pyodide.asm.wasm",
+      "size": 9598218,
+      "sha256": "3a0a00dfeaa348ac20f9ef09904233d32d33f644339662d4af368f8a2010f37a"
+    },
+    {
+      "path": "runtime/python_stdlib.zip",
+      "size": 2545564,
+      "sha256": "80c5be6babfe03297069703410c3c29404dcf2525d2b128746bae5536f94831f"
+    },
+    {
+      "path": "runtime/pyodide-lock.json",
+      "size": 114440,
+      "sha256": "3fdaef09e9e365c85e002737720f8d0ab8f278c1c244a2dde6a37663cf488ad4"
+    },
+    {
+      "path": "runtime/runtime-files.json",
+      "size": 1915,
+      "sha256": "f1015f2ce43b39a7af29c9882106e4988138d751937b762cff98b14a2b4959b1"
+    },
+    {
+      "path": "runtime/numpy-2.4.6-cp314-cp314-pyemscripten_2026_0_wasm32.whl",
+      "size": 2918760,
+      "sha256": "32959d4137cec8143d75016d029281df3d2e80a232896ed903c2b59e1c44ee9f"
+    },
+    {
+      "path": "worker.mjs",
+      "size": 18815,
+      "sha256": "bbe1e8c1f653022bdb2487473bb077be2684d891688ef19b317ea52f6c33f85a"
+    }
+  ]
+}
