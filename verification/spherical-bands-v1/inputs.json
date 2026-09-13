@@ -1,0 +1,343 @@
+{
+  "schema": "spherical-band-browser-fixtures-1",
+  "source_stage_sha256": "9c7887c5c6e5ac51670f7ec33a46a31d105ae6e43df6d581fc7baa876fd2a31a",
+  "code_sha256": "03a39939aceae5467cf200e994e9224611b36a1fbe61fd27451358c754f931a4",
+  "cases": [
+    {
+      "name": "sphere-origin-auto",
+      "step": "sphere-origin.step",
+      "allowance": "0",
+      "candidates": 10,
+      "band_rows": 7,
+      "initial_hash": "ead3458b1d0f5c8f0aa4680c0e9196d33baf87a0bc863e4ac55ff9558eb2d86c",
+      "actions": [
+        {
+          "action": 0,
+          "material_hash": "422ffedf3506166b919089350ec24aa28985085450ffa5f65b3cfa26bcbbd17a"
+        },
+        {
+          "action": 1,
+          "material_hash": "c80866eb49542f1f1909fbcc81ef15652058c28ba0e3f473250b22b677a6cee0"
+        },
+        {
+          "action": 2,
+          "material_hash": "63b0f356c9505589676b8027b905b70657ce1bea20e7c7bd6b3cc2242dad93c6"
+        },
+        {
+          "action": 3,
+          "material_hash": "95c904d5df8719cfa590143b58021b8b05f5d97dd51cf532f00f9e4edfb0c022"
+        },
+        {
+          "action": 4,
+          "material_hash": "880f1f19539be39e938c51c90b8f028f079c9289a9196a65e1df6a77d8f127d7"
+        },
+        {
+          "action": 5,
+          "material_hash": "8d906efad55db2f02c296421c39fc4bb23d8f040feacb466546ccb43f3f0db41"
+        },
+        {
+          "action": 6,
+          "material_hash": "f8e2d0b225e120182e34654e322ce4e8d5c8dd1b27b7c52b55df704815bec91f"
+        }
+      ],
+      "completed": true,
+      "truncated": false,
+      "completion": {
+        "completed": true,
+        "global_budget": [
+          10000,
+          1
+        ],
+        "global_passed": true,
+        "global_remaining": {
+          "lower_mm3": [
+            28,
+            1
+          ],
+          "upper_mm3": [
+            1360,
+            1
+          ]
+        },
+        "material_hash": "f8e2d0b225e120182e34654e322ce4e8d5c8dd1b27b7c52b55df704815bec91f",
+        "query_profile": "regional_refined_history_1",
+        "regions": [
+          {
+            "budget": [
+              0,
+              1
+            ],
+            "name": "outside_target_radial_limit",
+            "passed": true,
+            "region_id": "283ff82a22156ac9099247c87ec3d386045ea4b0d6510a92aade0ea2dbbf8285",
+            "remaining": {
+              "lower_mm3": [
+                0,
+                1
+              ],
+              "upper_mm3": [
+                0,
+                1
+              ]
+            }
+          }
+        ],
+        "residual_profile": "initial_material_minus_accepted_shadow_union_1",
+        "schema": "adaptive-regional-completion-report-2",
+        "source_geometry_id": "13774de1f41fb4bd675fb6262a7d963e2e06a2d9c9792842101905ac3f3fdd8b",
+        "specification_id": "c8006d83016b1f211a23af7615a8e57c0f30f29f61dfb04ac6e862b7a3b51a2b"
+      }
+    },
+    {
+      "name": "sphere-origin-allowance",
+      "step": "sphere-origin.step",
+      "allowance": "0.5",
+      "candidates": 10,
+      "band_rows": 7,
+      "initial_hash": "9081402293c590f49dbae63fed98412143f3a376529f3627b63ed87d7cacc9d3",
+      "actions": [
+        {
+          "action": 0,
+          "material_hash": "77762afbd15481c9307f0dc98a0b72ec766b0d4482cbb9bce84395e63aeb3175"
+        },
+        {
+          "action": 1,
+          "material_hash": "9cd09aa0518c0bbe10069ce6347fab278cb148385eafb46dabd0df5223fc4174"
+        },
+        {
+          "action": 2,
+          "material_hash": "c727d8f877ce558d50ce52ecab73cd062140cc9ad3a5eb99b88fe996c4b2122d"
+        },
+        {
+          "action": 3,
+          "material_hash": "d5aca7f4f6840499653f45662524cd942ec749860840a6e9ad77023b5bbce333"
+        },
+        {
+          "action": 4,
+          "material_hash": "2aeddd9eb72e03fa442d8e51170c421294f48a68fa01cbe924a4159925540c51"
+        },
+        {
+          "action": 5,
+          "material_hash": "1c3544b1f8b29a3c53bc8d01a8538bbd463449610a1ec25b9f453200ebc61823"
+        },
+        {
+          "action": 6,
+          "material_hash": "503cf317c08a476bfb11ce1133a717b46f83318b0a210938f12198c755868a5c"
+        },
+        {
+          "action": 7,
+          "material_hash": "0b91e0fbb93599d60b34feb5f857d48aea9f7303baa209bddea8eed57d789669"
+        }
+      ],
+      "completed": false,
+      "truncated": false,
+      "completion": {
+        "completed": false,
+        "global_budget": [
+          10000,
+          1
+        ],
+        "global_passed": true,
+        "global_remaining": {
+          "lower_mm3": [
+            0,
+            1
+          ],
+          "upper_mm3": [
+            984,
+            1
+          ]
+        },
+        "material_hash": "0b91e0fbb93599d60b34feb5f857d48aea9f7303baa209bddea8eed57d789669",
+        "query_profile": "regional_refined_history_1",
+        "regions": [
+          {
+            "budget": [
+              0,
+              1
+            ],
+            "name": "outside_target_radial_limit",
+            "passed": false,
+            "region_id": "283ff82a22156ac9099247c87ec3d386045ea4b0d6510a92aade0ea2dbbf8285",
+            "remaining": {
+              "lower_mm3": [
+                0,
+                1
+              ],
+              "upper_mm3": [
+                664,
+                1
+              ]
+            }
+          }
+        ],
+        "residual_profile": "initial_material_minus_accepted_shadow_union_1",
+        "schema": "adaptive-regional-completion-report-2",
+        "source_geometry_id": "a9d9227ef4a51cc92ba9d6d6a7860dab401d44bb7a8c73c98e583a965527692c",
+        "specification_id": "38dde0ca1814bc42bf4d5a32c023a02c006fecb7740bfa012283bf6b34f64bbd"
+      }
+    },
+    {
+      "name": "sphere-translated-auto",
+      "step": "sphere-translated.step",
+      "allowance": "0",
+      "candidates": 9,
+      "band_rows": 6,
+      "initial_hash": "42fedd06c8cfebb5ead4f1e8b982c436e2794fbe1bfce0262a085f87b6aa79d2",
+      "actions": [
+        {
+          "action": 0,
+          "material_hash": "143f1def3b38122c5223d72e13c425463752b0d4f65406f2ab459abc9579cb6b"
+        },
+        {
+          "action": 1,
+          "material_hash": "f5097185c9635f99627bc7eb2a36c3ced415cc2b23d73f3a8e355bc9b3c12b07"
+        },
+        {
+          "action": 2,
+          "material_hash": "273252d200d0cda1b01ce3372468f4b1cf37deca02c13c99316a69f92fb93c07"
+        },
+        {
+          "action": 3,
+          "material_hash": "ee0e7bfaa55f586918babe599d00c92836657789d82a40957067fc9cef3654fd"
+        },
+        {
+          "action": 4,
+          "material_hash": "f8ce550dbc2d3e7f45922ab35233478ca40bea2ab820fa0f57afdee5b321d3a7"
+        }
+      ],
+      "completed": true,
+      "truncated": false,
+      "completion": {
+        "completed": true,
+        "global_budget": [
+          10000,
+          1
+        ],
+        "global_passed": true,
+        "global_remaining": {
+          "lower_mm3": [
+            60,
+            1
+          ],
+          "upper_mm3": [
+            472,
+            1
+          ]
+        },
+        "material_hash": "f8ce550dbc2d3e7f45922ab35233478ca40bea2ab820fa0f57afdee5b321d3a7",
+        "query_profile": "regional_refined_history_1",
+        "regions": [
+          {
+            "budget": [
+              0,
+              1
+            ],
+            "name": "outside_target_radial_limit",
+            "passed": true,
+            "region_id": "725d2de0f0256b3d14657f0afe7ff00cb3c7bd9f28ba8a3ebca0e25f81b5b4dd",
+            "remaining": {
+              "lower_mm3": [
+                0,
+                1
+              ],
+              "upper_mm3": [
+                0,
+                1
+              ]
+            }
+          }
+        ],
+        "residual_profile": "initial_material_minus_accepted_shadow_union_1",
+        "schema": "adaptive-regional-completion-report-2",
+        "source_geometry_id": "ca841c46ae00cd8bd3e7b3ece6650a1a70d131b7aef93ce9dcb0fcfb53f5c71b",
+        "specification_id": "9d8ba4f11a84cbcc9b1eea71526dcf271529a495adb7a352b25c64f6baedcc87"
+      }
+    },
+    {
+      "name": "sphere-translated-allowance",
+      "step": "sphere-translated.step",
+      "allowance": "0.5",
+      "candidates": 9,
+      "band_rows": 6,
+      "initial_hash": "d912b38f2a1470c5c9c4d99138c055edd3b6c93e28880e60429b106ef0cc0e5e",
+      "actions": [
+        {
+          "action": 0,
+          "material_hash": "d36f9251f85ea31f5f799a3512cddf56c77544ae2f9fc2bf6967f712ec0db3ef"
+        },
+        {
+          "action": 1,
+          "material_hash": "c740befcaa2733c9e83eb62361391e8648ce8208fff89bfa537d443499d721df"
+        },
+        {
+          "action": 2,
+          "material_hash": "d00fadad0a3202780b9bcf4ebb388a0c8d876658b7019c7ba9ca2c78f3990252"
+        },
+        {
+          "action": 3,
+          "material_hash": "cd87518a9822ec1ebc531a67769b7ef7c952b465c3e88a4febbc2ca4a7f410db"
+        },
+        {
+          "action": 4,
+          "material_hash": "46e7d1165b23359b36f0d302aa5c998eb5a05d8d2f3ca9f099aca90e9ea31e5b"
+        },
+        {
+          "action": 5,
+          "material_hash": "c2c1b9c024d547199611af1c6bd3dfca70d488efacc1dd5893284d9e72df44f5"
+        },
+        {
+          "action": 6,
+          "material_hash": "e00729bb8149ca9cb4f58c2ac0a921265a5c26cbee154e49d9dbab35c1c05709"
+        }
+      ],
+      "completed": true,
+      "truncated": false,
+      "completion": {
+        "completed": true,
+        "global_budget": [
+          10000,
+          1
+        ],
+        "global_passed": true,
+        "global_remaining": {
+          "lower_mm3": [
+            0,
+            1
+          ],
+          "upper_mm3": [
+            376,
+            1
+          ]
+        },
+        "material_hash": "e00729bb8149ca9cb4f58c2ac0a921265a5c26cbee154e49d9dbab35c1c05709",
+        "query_profile": "regional_refined_history_1",
+        "regions": [
+          {
+            "budget": [
+              0,
+              1
+            ],
+            "name": "outside_target_radial_limit",
+            "passed": true,
+            "region_id": "725d2de0f0256b3d14657f0afe7ff00cb3c7bd9f28ba8a3ebca0e25f81b5b4dd",
+            "remaining": {
+              "lower_mm3": [
+                0,
+                1
+              ],
+              "upper_mm3": [
+                0,
+                1
+              ]
+            }
+          }
+        ],
+        "residual_profile": "initial_material_minus_accepted_shadow_union_1",
+        "schema": "adaptive-regional-completion-report-2",
+        "source_geometry_id": "b5557b585a267a772ccd9fcc38307226bf497c1c1829638ba4eefbe5af89bc44",
+        "specification_id": "5d3b6c12324276912b6f28e8f1a76871ea061b23398f5650df497166ab3f1a09"
+      }
+    }
+  ]
+}
