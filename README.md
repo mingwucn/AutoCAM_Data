@@ -57,3 +57,17 @@ local preflight covers the six-action turning/transfer/four-face example, three
 ball/flank groove routes, and the supported STEP fixture with exact decision
 downloads and restores. This is geometric verification, not an optimal workplan
 or manufacturing certification. Large replays remain slow.
+
+## STEP finishing allowance runtime
+
+`releases/adaptive-allowance-20260913/cad/` adds an exact numeric finishing
+allowance for supported planar solids and solid coaxial cylindrical parts.
+It preserves the reserve through stock preparation, indexed workpiece poses
+and source-derived turning/milling actions. Positive allowance for bores and
+general CAD is not supported. Zero allowance retains the existing preparation.
+
+The UI supplies the requested amount locally; files stay in the browser.
+Machining standoffs must exceed the allowance and completion limits must
+accommodate it. Setup values are checked, not adjusted automatically.
+The existing ordered catalogue and all previous runtime releases remain
+available. This package is experimental, not manufacturing qualification.
