@@ -1,0 +1,140 @@
+{
+  "schema": "autocam-ui-assets-1",
+  "files": [
+    {
+      "path": "inputs.json",
+      "sha256": "3d66797de26e1a7012dd087f2e235c2040e3e3541d118619690aab7c5076258e",
+      "size_bytes": 10904
+    },
+    {
+      "path": "sphere-origin-allowance/configuration.json",
+      "sha256": "d6c304f688805ac18dd3b96a9f580fe750b9ccf641c12e6e572d6e931170bc26",
+      "size_bytes": 9746
+    },
+    {
+      "path": "sphere-origin-allowance/export-expected.json",
+      "sha256": "aae730f88f45050d7d6cbaaab77c83a69c199aaeef568a73c205145c84f12fae",
+      "size_bytes": 2893223
+    },
+    {
+      "path": "sphere-origin-allowance/initial.bin",
+      "sha256": "36b5418ff15a663673e2a9c4cbebf0aea9b0aca85b78a1b5b150e2635217f305",
+      "size_bytes": 1283824
+    },
+    {
+      "path": "sphere-origin-allowance/policy.json",
+      "sha256": "2645c903fca562eaa13e20b69c61acbfcec63c021ab0ef6830211091979ce6ba",
+      "size_bytes": 770
+    },
+    {
+      "path": "sphere-origin-allowance/preparation.json",
+      "sha256": "db290b7dd9792b1352dcc7ca0c0b22820dc21aee76344869335dab4ea00dc773",
+      "size_bytes": 11264
+    },
+    {
+      "path": "sphere-origin-allowance/setup.json",
+      "sha256": "c4de26231002fc51a5fd2fdf79db55f689b85ff96040ce43b4cdfe04d2e3c769",
+      "size_bytes": 4747
+    },
+    {
+      "path": "sphere-origin-auto/configuration.json",
+      "sha256": "296ac00e23edb69ce9fa49d6ccf567aa90fc04a194e987a011736a5b195c5df9",
+      "size_bytes": 9744
+    },
+    {
+      "path": "sphere-origin-auto/export-expected.json",
+      "sha256": "6b4e6bf61f49a047d06455cd55440ee89ecfc40476b54e712be86739aac303ef",
+      "size_bytes": 2610800
+    },
+    {
+      "path": "sphere-origin-auto/initial.bin",
+      "sha256": "8735003502105080ae312fb30a0817aaf3f5baeb75a541f4252b6e32eadcf4a2",
+      "size_bytes": 1162508
+    },
+    {
+      "path": "sphere-origin-auto/policy.json",
+      "sha256": "2645c903fca562eaa13e20b69c61acbfcec63c021ab0ef6830211091979ce6ba",
+      "size_bytes": 770
+    },
+    {
+      "path": "sphere-origin-auto/preparation.json",
+      "sha256": "e562c953ff3f303ee9fa95a07de49e69ca4096c8bf2bcc999e8a964823b61fe9",
+      "size_bytes": 11262
+    },
+    {
+      "path": "sphere-origin-auto/setup.json",
+      "sha256": "c4de26231002fc51a5fd2fdf79db55f689b85ff96040ce43b4cdfe04d2e3c769",
+      "size_bytes": 4747
+    },
+    {
+      "path": "sphere-origin.step",
+      "sha256": "b5df0aa37e6351994190239d4ee66993fb0da1b2156e70b462e8bf37300363eb",
+      "size_bytes": 2121
+    },
+    {
+      "path": "sphere-translated-allowance/configuration.json",
+      "sha256": "e199885142ba034ea36b3ef0ec2bd5de94464c6dd6d3bbd6dc5bb5a5c0bbf9e1",
+      "size_bytes": 9294
+    },
+    {
+      "path": "sphere-translated-allowance/export-expected.json",
+      "sha256": "250c60c54ef59d302772044f40c07c118483dc3b09d72fe8f626ed466baabccb",
+      "size_bytes": 1785576
+    },
+    {
+      "path": "sphere-translated-allowance/initial.bin",
+      "sha256": "3bd99cec40221b4b2a3542152aa9a3bf9b27cea86e7323f11d9d379753d42e46",
+      "size_bytes": 751670
+    },
+    {
+      "path": "sphere-translated-allowance/policy.json",
+      "sha256": "42eb290a4ce99a6357d6edecaf60d9707bf39121f1374608c956bc2c802b2321",
+      "size_bytes": 754
+    },
+    {
+      "path": "sphere-translated-allowance/preparation.json",
+      "sha256": "b817f252c7473777ad5b2f79a5df027e119011a52db609180f4d648794353a1e",
+      "size_bytes": 10262
+    },
+    {
+      "path": "sphere-translated-allowance/setup.json",
+      "sha256": "c81186a1fc771a317a877c6b80f17c9324758ee9e5df7c665633e967ecf6058d",
+      "size_bytes": 4753
+    },
+    {
+      "path": "sphere-translated-auto/configuration.json",
+      "sha256": "136f6e8d73c753979ac1f373bd94325cd8249c287eda88c23065cf0bf1a846db",
+      "size_bytes": 9292
+    },
+    {
+      "path": "sphere-translated-auto/export-expected.json",
+      "sha256": "59b625fd4acb1799269763362ccca33108de2c33245e1100c836fadf4d3ddc55",
+      "size_bytes": 1663849
+    },
+    {
+      "path": "sphere-translated-auto/initial.bin",
+      "sha256": "25ef44f1f78e6408ad2e0b6cb100a9a63f940dc81b8a1f5f657990ffc787ad4f",
+      "size_bytes": 730978
+    },
+    {
+      "path": "sphere-translated-auto/policy.json",
+      "sha256": "42eb290a4ce99a6357d6edecaf60d9707bf39121f1374608c956bc2c802b2321",
+      "size_bytes": 754
+    },
+    {
+      "path": "sphere-translated-auto/preparation.json",
+      "sha256": "4f830b7dcae9cb42e5983386fb21b5fed48293087219d4efaa7b859b8d4e9c8b",
+      "size_bytes": 10256
+    },
+    {
+      "path": "sphere-translated-auto/setup.json",
+      "sha256": "c81186a1fc771a317a877c6b80f17c9324758ee9e5df7c665633e967ecf6058d",
+      "size_bytes": 4753
+    },
+    {
+      "path": "sphere-translated.step",
+      "sha256": "de4a364e2d490a672e29970e5030aad42139a92f3b0896997a1713094a9fe58f",
+      "size_bytes": 2089
+    }
+  ]
+}
