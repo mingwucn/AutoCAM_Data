@@ -71,3 +71,18 @@ Machining standoffs must exceed the allowance and completion limits must
 accommodate it. Setup values are checked, not adjusted automatically.
 The existing ordered catalogue and all previous runtime releases remain
 available. This package is experimental, not manufacturing qualification.
+
+## Finite-tool examples (2026-09-15)
+
+`releases/adaptive-tools-20260915/runtime/release.json` describes the browser
+Python runtime, six synthetic drilling/face-milling/mill-turn examples and
+the compatible experimental learning checkpoint. The two earlier adaptive
+examples retain their exact task, stock and comparison bytes under `retained/`.
+The separate `cad/release.json` describes the matching shared Python archive
+and WebAssembly modules for supported local STEP preparation, including the
+restricted rational-prism profile.
+
+The browser checks asset hashes. These examples are development fixtures;
+they do not admit the industrial CAD parts or certify manufacturing safety.
+Tool inspection preserves accepted stock and saved actions. Training runs
+locally; the browser supports compatible model inference and recording.
