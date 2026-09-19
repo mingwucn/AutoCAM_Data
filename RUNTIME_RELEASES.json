@@ -55,6 +55,16 @@
       "path": "releases/adaptive-turning-shadow-20260919/cad/release.json",
       "sha256": "b9c2286cb615f0dd250d9fd6cc57857c629825624cceb47628719c1661348e00",
       "size_bytes": 2677
+    },
+    {
+      "path": "releases/adaptive-stationary-turning-shadow-20260919/runtime/release.json",
+      "sha256": "b829abbf96219056dc8e2f51511d96300c2b5bec92c7aeaf027b2ed61be49555",
+      "size_bytes": 6366
+    },
+    {
+      "path": "releases/adaptive-stationary-turning-shadow-20260919/cad/release.json",
+      "sha256": "0046f4488d27a1d2ff5c359afd4b9a44a297c14725c872a025dcf1efb4c4f609",
+      "size_bytes": 2677
     }
   ]
 }

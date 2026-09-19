@@ -138,3 +138,13 @@ Case inputs, raw STEP assets and learning weights are unchanged. Inspection uses
 the accepted stock and does not alter action recordings. This bounded point-shadow
 profile does not certify finite-tool access, stationary clearance, general CAD
 or full machine kinematics. Earlier immutable releases remain available.
+
+## Stationary turning shadow runtime (2026-09-19)
+
+`releases/adaptive-stationary-turning-shadow-20260919/runtime/release.json` preserves all
+twelve adaptive examples and adds candidate-bound stationary turning shadow inspection to
+the full mill-turn case. The CAD release shares the same verified Python archive.
+Case inputs, raw STEP assets and learning weights are unchanged. Inspection uses
+the accepted stock and does not alter action recordings. This bounded point-shadow
+profile does not certify finite-tool access, whole-machine clearance, general CAD
+or full machine kinematics. Earlier immutable releases remain available.
