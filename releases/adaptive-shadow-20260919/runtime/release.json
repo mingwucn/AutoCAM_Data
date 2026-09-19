@@ -1,0 +1,165 @@
+{
+  "schema": "autocam-ui-assets-1",
+  "files": [
+    {
+      "path": "finite-drills/initial.bin",
+      "sha256": "1e9e24259f42a0695e7cf0dc7255b7e7f9dc273150ed32bad18357f0da2c61f7",
+      "size_bytes": 46230
+    },
+    {
+      "path": "finite-drills/task.json",
+      "sha256": "963a152847483db8cd286c75c28a29b591f4f6636fbd0f65ced6159fadf7ea2a",
+      "size_bytes": 9588
+    },
+    {
+      "path": "finite-face/initial.bin",
+      "sha256": "38e525a9d8abda41edba99776d15580805f4a5f872044c8612528a3054b06841",
+      "size_bytes": 4102
+    },
+    {
+      "path": "finite-face/task.json",
+      "sha256": "f23037739591df3c6f9dd754fdc26dadc78ac40a7d331fa12240d3e5fd4082f5",
+      "size_bytes": 8319
+    },
+    {
+      "path": "finite-mill-turn/initial.bin",
+      "sha256": "cb2ed5aa32e6419b01208849aa41994bd80895fc4ade70eab48b42a44a26375e",
+      "size_bytes": 4324
+    },
+    {
+      "path": "finite-mill-turn/task.json",
+      "sha256": "f04f419f0905310be7dabd5c9c045c76befede53de50fbf876edf3be424c92ce",
+      "size_bytes": 55683
+    },
+    {
+      "path": "fixture-shadow/initial.bin",
+      "sha256": "0dea1e4acdfdcbdaed92e3a6b34850822cdaa1d8227e957a8d20d22d18545e26",
+      "size_bytes": 4062
+    },
+    {
+      "path": "fixture-shadow/task.json",
+      "sha256": "834fd0290908f5dea8f33add7886ba061e1c8afa1a8d2c33a180fd593f467c33",
+      "size_bytes": 9283
+    },
+    {
+      "path": "full-mill-turn/initial.bin",
+      "sha256": "cb2ed5aa32e6419b01208849aa41994bd80895fc4ade70eab48b42a44a26375e",
+      "size_bytes": 4324
+    },
+    {
+      "path": "full-mill-turn/task.json",
+      "sha256": "130c87cc70f01e5915e1ab9a1a650e4808b136f94a027977ab8f60fed793799e",
+      "size_bytes": 28174
+    },
+    {
+      "path": "initial.bin",
+      "sha256": "1e9e24259f42a0695e7cf0dc7255b7e7f9dc273150ed32bad18357f0da2c61f7",
+      "size_bytes": 46230
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "1fd70d5fc7a020f9802ca97981372dda58c79eb784f6afb94bfb3b3c8595ee40",
+      "size_bytes": 5290
+    },
+    {
+      "path": "mixed-learning/checkpoint.json",
+      "sha256": "b84e9c965bacf7249a84093c77c070391130a02ab0fa5bfed7cc75ca5c5cc5f4",
+      "size_bytes": 859
+    },
+    {
+      "path": "mixed-learning/initial.bin",
+      "sha256": "cb2ed5aa32e6419b01208849aa41994bd80895fc4ade70eab48b42a44a26375e",
+      "size_bytes": 4324
+    },
+    {
+      "path": "mixed-learning/task.json",
+      "sha256": "686db12d01696666cc9f570f5db8c0d94d2c6e4de148c3b16eb9ff87d7ae0640",
+      "size_bytes": 31986
+    },
+    {
+      "path": "python-code.zip",
+      "sha256": "c63eaf6d1b184ca380b42a0cac41fba8b13b7ae7a2bbcbe22a48ee1e986caf44",
+      "size_bytes": 1539984
+    },
+    {
+      "path": "retained/comparison.json",
+      "sha256": "2ad3c97d4b452278221ed073b8e019059d23d8eb91d5cc058e3b785ed3ba8e85",
+      "size_bytes": 207
+    },
+    {
+      "path": "retained/high-index-task.json",
+      "sha256": "4e41592310182172a540ef4acc11316ec5b49452c061e903b0ce718da0797ffb",
+      "size_bytes": 4569
+    },
+    {
+      "path": "retained/initial.bin",
+      "sha256": "1eec973a542352d045d0d13625c24ca266f1c92d663af4fae6005350554b53e0",
+      "size_bytes": 1660860
+    },
+    {
+      "path": "retained/task.json",
+      "sha256": "134f699413254b76ad6873a65d30385bb75a97bac67e9811db6ad1c3b3d2aebc",
+      "size_bytes": 4567
+    },
+    {
+      "path": "retained/turn_four_faces/initial.bin",
+      "sha256": "9b36c70dc4df227f23e7d11205b8defbf42435598f73b4ec303294e32c561e95",
+      "size_bytes": 27682185
+    },
+    {
+      "path": "retained/turn_four_faces/task.json",
+      "sha256": "bcbb94cf12ede9c892cde7ba2d3e5560686f506bf83674b987648a005bf6890d",
+      "size_bytes": 10324
+    },
+    {
+      "path": "retained/volume-query.mjs",
+      "sha256": "783e7c77f06714c744f8047b258359bb6238d39a1944ce4a6b088f87de6c90fc",
+      "size_bytes": 14525
+    },
+    {
+      "path": "retained/volume-query.wasm",
+      "sha256": "6c2fc781e3a158dd56b2af1726335b05f70eb5270079804fabdbb171cc1a896e",
+      "size_bytes": 31350
+    },
+    {
+      "path": "runtime/numpy-2.4.6-cp314-cp314-pyemscripten_2026_0_wasm32.whl",
+      "sha256": "32959d4137cec8143d75016d029281df3d2e80a232896ed903c2b59e1c44ee9f",
+      "size_bytes": 2918760
+    },
+    {
+      "path": "runtime/pyodide-lock.json",
+      "sha256": "3fdaef09e9e365c85e002737720f8d0ab8f278c1c244a2dde6a37663cf488ad4",
+      "size_bytes": 114440
+    },
+    {
+      "path": "runtime/pyodide.asm.mjs",
+      "sha256": "2ac5eba365ec12839c75c03b39b3be1dd63b798852cc460b014b52238be042f7",
+      "size_bytes": 1250344
+    },
+    {
+      "path": "runtime/pyodide.asm.wasm",
+      "sha256": "3a0a00dfeaa348ac20f9ef09904233d32d33f644339662d4af368f8a2010f37a",
+      "size_bytes": 9598218
+    },
+    {
+      "path": "runtime/pyodide.mjs",
+      "sha256": "69e3f6ccec3e14b465df60be577ca62f536251406b9a00cce019eac5252a2495",
+      "size_bytes": 17931
+    },
+    {
+      "path": "runtime/python_stdlib.zip",
+      "sha256": "80c5be6babfe03297069703410c3c29404dcf2525d2b128746bae5536f94831f",
+      "size_bytes": 2545564
+    },
+    {
+      "path": "runtime/runtime-files.json",
+      "sha256": "f1015f2ce43b39a7af29c9882106e4988138d751937b762cff98b14a2b4959b1",
+      "size_bytes": 1915
+    },
+    {
+      "path": "task.json",
+      "sha256": "bc4ebf982b0f541df354be53ff69c0f3fb89e6b348d3c46ec5b40c3718d7b09e",
+      "size_bytes": 8921
+    }
+  ]
+}

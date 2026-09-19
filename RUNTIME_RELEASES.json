@@ -15,6 +15,16 @@
       "path": "releases/adaptive-allowance-20260913/cad/release.json",
       "sha256": "99da8ce8e9b11ea3f1aedb5c88509db5e3c9c2c5bb0c3e20d84c292f41ab8291",
       "size_bytes": 2029
+    },
+    {
+      "path": "releases/adaptive-shadow-20260919/runtime/release.json",
+      "sha256": "36c67ec3b3191aa8bcdafee83af5ae53533482ca9f1a1ff05abb7a865a56143b",
+      "size_bytes": 5356
+    },
+    {
+      "path": "releases/adaptive-shadow-20260919/cad/release.json",
+      "sha256": "7e39b828524707dc794e8ceaefac99f85cd9a08a51985e207b0b6bd9a8f2ff19",
+      "size_bytes": 2677
     }
   ]
 }

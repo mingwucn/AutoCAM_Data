@@ -86,3 +86,16 @@ The browser checks asset hashes. These examples are development fixtures;
 they do not admit the industrial CAD parts or certify manufacturing safety.
 Tool inspection preserves accepted stock and saved actions. Training runs
 locally; the browser supports compatible model inference and recording.
+
+## Directional-shadow examples (2026-09-19)
+
+`releases/adaptive-shadow-20260919/runtime/release.json` preserves the previous
+eight adaptive examples and adds an upstream-fixture shadow demonstration.
+Its shared Python runtime supplies candidate-bound point-shadow inspection
+for box/union blockers and principal indexed orientations. The matching
+`cad/release.json` carries the same Python archive for local STEP preparation.
+
+Shadow inspection preserves accepted stock and decision recordings. Curved or
+compound blockers outside this profile remain explicitly unsupported. The
+display does not establish finite-tool clearance. Existing example inputs,
+model weights and historical release assets are preserved.
