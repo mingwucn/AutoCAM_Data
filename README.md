@@ -99,3 +99,18 @@ Shadow inspection preserves accepted stock and decision recordings. Curved or
 compound blockers outside this profile remain explicitly unsupported. The
 display does not establish finite-tool clearance. Existing example inputs,
 model weights and historical release assets are preserved.
+
+## Analytic curved-shadow examples (2026-09-19)
+
+`releases/adaptive-curved-shadow-20260919/runtime/release.json` preserves all
+nine previous adaptive examples and appends a round-fixture shadow example.
+The matching `cad/release.json` carries the identical shared Python archive.
+Analytic point shadows support boxes, spheres, principal cylinders and their
+unions along six signed principal engagement directions with checked frame
+transforms. The original case inputs and learning checkpoint remain exact.
+
+Shadow controls preserve accepted stock and recorded actions. A blocked
+candidate remains rejected. Display meshes do not establish finite-tool
+clearance; annular, oblique and general CAD shadows remain unsupported.
+Existing historical releases remain available. These are development examples,
+not industrial machining qualification.
