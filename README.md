@@ -128,3 +128,13 @@ Shadow controls preserve accepted stock and action downloads. These diagnostic
 examples remain rejected for machining; finite-tool/holder clearance is separate.
 Blind/eccentric holes, oblique axes and general CAD shadows remain outside this
 profile. Earlier immutable releases remain available.
+
+## Turning shadow runtime (2026-09-19)
+
+`releases/adaptive-turning-shadow-20260919/runtime/release.json` preserves all
+twelve adaptive examples and adds candidate-bound turning shadow inspection to
+the full mill-turn case. The CAD release shares the same verified Python archive.
+Case inputs, raw STEP assets and learning weights are unchanged. Inspection uses
+the accepted stock and does not alter action recordings. This bounded point-shadow
+profile does not certify finite-tool access, stationary clearance, general CAD
+or full machine kinematics. Earlier immutable releases remain available.

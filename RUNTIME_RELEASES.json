@@ -45,6 +45,16 @@
       "path": "releases/adaptive-annular-shadow-20260919/cad/release.json",
       "sha256": "9abf7f929f0636d782dc53074741cb5813c1e478cf7bd11c79adb96bdd026d97",
       "size_bytes": 2677
+    },
+    {
+      "path": "releases/adaptive-turning-shadow-20260919/runtime/release.json",
+      "sha256": "e9dad55ee1144c26c37bea363a43e6fec19ea5cc5625832ebffbd0cb719dd5f0",
+      "size_bytes": 6366
+    },
+    {
+      "path": "releases/adaptive-turning-shadow-20260919/cad/release.json",
+      "sha256": "b9c2286cb615f0dd250d9fd6cc57857c629825624cceb47628719c1661348e00",
+      "size_bytes": 2677
     }
   ]
 }
