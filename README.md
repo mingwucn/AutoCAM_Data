@@ -114,3 +114,17 @@ candidate remains rejected. Display meshes do not establish finite-tool
 clearance; annular, oblique and general CAD shadows remain unsupported.
 Existing historical releases remain available. These are development examples,
 not industrial machining qualification.
+
+## Annular shadow examples (2026-09-19)
+
+`releases/adaptive-annular-shadow-20260919/runtime/release.json` preserves all
+ten previous adaptive examples and appends axial and transverse through-bore
+fixture demonstrations. The matching CAD release uses the same verified Python
+archive. Existing case inputs, raw STEP assets and learning weights are unchanged.
+
+One exact coaxial through bore is supported in a principal-axis cylinder.
+Its centre is clear axially and blocked by its upstream wall transversely.
+Shadow controls preserve accepted stock and action downloads. These diagnostic
+examples remain rejected for machining; finite-tool/holder clearance is separate.
+Blind/eccentric holes, oblique axes and general CAD shadows remain outside this
+profile. Earlier immutable releases remain available.

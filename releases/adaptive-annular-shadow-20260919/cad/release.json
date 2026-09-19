@@ -1,0 +1,85 @@
+{
+  "schema": "autocam-ui-assets-1",
+  "files": [
+    {
+      "path": "cad-audit.mjs",
+      "sha256": "ea3e41c16e02e3f5e25ceb1b3605a2176e530f2f11f4aebc1729b6fdf6ded19b",
+      "size_bytes": 142223
+    },
+    {
+      "path": "cad-audit.wasm",
+      "sha256": "b2b88c899bd2f129291f97ea81e9b82237fe71542bb527332f6bb83463cd8c99",
+      "size_bytes": 14620193
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "fbba544e74e1c4bbfc2371786aef5fb18e67b82ddeb61d7926506ca61109806d",
+      "size_bytes": 3232
+    },
+    {
+      "path": "python-code.zip",
+      "sha256": "8903ab978e8e3f2ee7fe2087a284b5eb5ed758c774a34ac9fe17379b9477da4a",
+      "size_bytes": 1543451
+    },
+    {
+      "path": "rational-audit.mjs",
+      "sha256": "8832bd6674cc498733704c15dc622731c66944f676c21fadeb7a67be84249946",
+      "size_bytes": 142223
+    },
+    {
+      "path": "rational-audit.wasm",
+      "sha256": "d22be2350b068a75dae9d9ad6d848a83748b9d172ed7681ad222bb7c262c8630",
+      "size_bytes": 14594206
+    },
+    {
+      "path": "rational-source.mjs",
+      "sha256": "85c166ec95489065c1967d1bfd69d34235b50c25875dd26e444596d42df018e9",
+      "size_bytes": 142394
+    },
+    {
+      "path": "rational-source.wasm",
+      "sha256": "49c0cd4d9222f5e3d30ba2e562e439c5d9efd8ebe267e6e127f99f546874d01f",
+      "size_bytes": 14303286
+    },
+    {
+      "path": "runtime/numpy-2.4.6-cp314-cp314-pyemscripten_2026_0_wasm32.whl",
+      "sha256": "32959d4137cec8143d75016d029281df3d2e80a232896ed903c2b59e1c44ee9f",
+      "size_bytes": 2918760
+    },
+    {
+      "path": "runtime/pyodide-lock.json",
+      "sha256": "3fdaef09e9e365c85e002737720f8d0ab8f278c1c244a2dde6a37663cf488ad4",
+      "size_bytes": 114440
+    },
+    {
+      "path": "runtime/pyodide.asm.mjs",
+      "sha256": "2ac5eba365ec12839c75c03b39b3be1dd63b798852cc460b014b52238be042f7",
+      "size_bytes": 1250344
+    },
+    {
+      "path": "runtime/pyodide.asm.wasm",
+      "sha256": "3a0a00dfeaa348ac20f9ef09904233d32d33f644339662d4af368f8a2010f37a",
+      "size_bytes": 9598218
+    },
+    {
+      "path": "runtime/pyodide.mjs",
+      "sha256": "69e3f6ccec3e14b465df60be577ca62f536251406b9a00cce019eac5252a2495",
+      "size_bytes": 17931
+    },
+    {
+      "path": "runtime/python_stdlib.zip",
+      "sha256": "80c5be6babfe03297069703410c3c29404dcf2525d2b128746bae5536f94831f",
+      "size_bytes": 2545564
+    },
+    {
+      "path": "runtime/runtime-files.json",
+      "sha256": "f1015f2ce43b39a7af29c9882106e4988138d751937b762cff98b14a2b4959b1",
+      "size_bytes": 1915
+    },
+    {
+      "path": "worker.mjs",
+      "sha256": "33fe8ab5d763095cbb144432d36e53060c4b01f27232cc1236429a84f61c0c76",
+      "size_bytes": 22219
+    }
+  ]
+}

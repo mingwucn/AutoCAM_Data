@@ -35,6 +35,16 @@
       "path": "releases/adaptive-curved-shadow-20260919/cad/release.json",
       "sha256": "adfe116370ac632eb983604e3e38915b1f60d1559e2356de84da1e7e8e7a7e40",
       "size_bytes": 2677
+    },
+    {
+      "path": "releases/adaptive-annular-shadow-20260919/runtime/release.json",
+      "sha256": "adf6d068ca0f7fbfcc7bcdd86a694e10530813aacd8f05fd59067d8238881696",
+      "size_bytes": 6366
+    },
+    {
+      "path": "releases/adaptive-annular-shadow-20260919/cad/release.json",
+      "sha256": "9abf7f929f0636d782dc53074741cb5813c1e478cf7bd11c79adb96bdd026d97",
+      "size_bytes": 2677
     }
   ]
 }
