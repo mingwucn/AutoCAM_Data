@@ -65,6 +65,11 @@
       "path": "releases/adaptive-stationary-turning-shadow-20260919/cad/release.json",
       "sha256": "0046f4488d27a1d2ff5c359afd4b9a44a297c14725c872a025dcf1efb4c4f609",
       "size_bytes": 2677
+    },
+    {
+      "path": "releases/adaptive-cad-inspection-20260920/cad/release.json",
+      "sha256": "9e86d783a1f57cded1777cb7b5487c9beef88cfa540677a5b6c44aa86e268e6d",
+      "size_bytes": 2677
     }
   ]
 }

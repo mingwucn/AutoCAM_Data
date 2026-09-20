@@ -148,3 +148,13 @@ Case inputs, raw STEP assets and learning weights are unchanged. Inspection uses
 the accepted stock and does not alter action recordings. This bounded point-shadow
 profile does not certify finite-tool access, whole-machine clearance, general CAD
 or full machine kinematics. Earlier immutable releases remain available.
+
+## CAD inspection and original face records (2026-09-20)
+
+`releases/adaptive-cad-inspection-20260920/cad/release.json` updates the
+browser CAD worker and shared Python preparation archive. Original face records
+are available after STEP import and during the uploaded machining session.
+Rational nominal faces support read-only cell queries and display highlights.
+The twelve-case catalogue, its runtime, models and raw STEP files are unchanged.
+No geometry healing, tolerance increase or industrial qualification is implied.
+Earlier immutable releases remain available.
