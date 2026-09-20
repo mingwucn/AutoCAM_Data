@@ -90,6 +90,11 @@
       "path": "releases/adaptive-journal-transitions-20260920/runtime/release.json",
       "sha256": "ec7fb03d0a4563304c1a0fce1adb39f8177efb0d859925230254474ae32cc15e",
       "size_bytes": 6366
+    },
+    {
+      "path": "releases/adaptive-prepared-transitions-20260920/runtime/release.json",
+      "sha256": "31334c5a869fa9d2f1d0989d7988b752aaeaccd48d6c538749bd7a2a0c47d2f4",
+      "size_bytes": 6366
     }
   ]
 }

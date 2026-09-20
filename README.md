@@ -186,3 +186,12 @@ Seven Python archive members change; the twelve existing catalogue cases, weight
 Pyodide and WASM assets retain their bytes. CAD preparation keeps its prior release.
 The recording is separate from ordinary decisions; it does not imply model or
 manufacturing qualification. Prepared and cylindrical capture remain separate work.
+
+## Prepared tool transition records (2026-09-20)
+
+`releases/adaptive-prepared-transitions-20260920/runtime/` adds material-transition
+records for prepared drilling and face milling, including inherited stock history.
+Exactly two Python archive members change; the twelve catalogue examples, models,
+Pyodide, WASM and separate CAD release retain their existing bytes. Records
+supplement ordinary decisions. Full/mixed/cylindrical capture remains separate
+work; these records do not confer model or manufacturing qualification.
