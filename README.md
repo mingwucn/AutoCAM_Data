@@ -177,3 +177,12 @@ members change; the existing twelve-case catalogue, weights, Pyodide and WASM
 assets keep their bytes. CAD preparation keeps its previous release. Records
 are separate from ordinary decisions and do not imply manufacturing qualification.
 Other session families still use their existing exports.
+
+## Journal transition records (2026-09-20)
+
+`releases/adaptive-journal-transitions-20260920/runtime/` adds selected material
+transition recording to combined, regional, objective and indexed browser sessions.
+Seven Python archive members change; the twelve existing catalogue cases, weights,
+Pyodide and WASM assets retain their bytes. CAD preparation keeps its prior release.
+The recording is separate from ordinary decisions; it does not imply model or
+manufacturing qualification. Prepared and cylindrical capture remain separate work.
