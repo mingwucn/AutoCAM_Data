@@ -158,3 +158,13 @@ Rational nominal faces support read-only cell queries and display highlights.
 The twelve-case catalogue, its runtime, models and raw STEP files are unchanged.
 No geometry healing, tolerance increase or industrial qualification is implied.
 Earlier immutable releases remain available.
+
+## Completion cache validation (2026-09-20)
+
+`releases/adaptive-completion-cache-20260920/` updates the catalogue and CAD
+preparation Python archives. The completion assessors now validate immutable
+snapshot and obligation inputs before reusing cached relations. This prevents
+invalid mutable snapshots from producing false zero-residual completion reports.
+Only three Python modules change in each archive. The twelve ordered examples,
+task inputs, model weights, CAD importers and WASM kernels retain their bytes.
+Earlier immutable releases remain available for rollback.

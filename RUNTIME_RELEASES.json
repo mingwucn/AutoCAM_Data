@@ -70,6 +70,16 @@
       "path": "releases/adaptive-cad-inspection-20260920/cad/release.json",
       "sha256": "9e86d783a1f57cded1777cb7b5487c9beef88cfa540677a5b6c44aa86e268e6d",
       "size_bytes": 2677
+    },
+    {
+      "path": "releases/adaptive-completion-cache-20260920/runtime/release.json",
+      "sha256": "2adfc1bdf09dadeaa14a6a13b24330a8bc15bcf4b3831d4da472855f5626df9f",
+      "size_bytes": 6366
+    },
+    {
+      "path": "releases/adaptive-completion-cache-20260920/cad/release.json",
+      "sha256": "e4c8f7bdb174dd96c1ab9bca54510234d6e9e8906a17c1ab689dca20ad5cd9e4",
+      "size_bytes": 2677
     }
   ]
 }
