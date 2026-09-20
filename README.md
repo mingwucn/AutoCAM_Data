@@ -168,3 +168,12 @@ invalid mutable snapshots from producing false zero-residual completion reports.
 Only three Python modules change in each archive. The twelve ordered examples,
 task inputs, model weights, CAD importers and WASM kernels retain their bytes.
 Earlier immutable releases remain available for rollback.
+
+## Direct-session transition records (2026-09-20)
+
+`releases/adaptive-browser-transitions-20260920/runtime/` adds accepted-transition
+recording for direct task4/task5/task6 browser sessions. Five Python archive
+members change; the existing twelve-case catalogue, weights, Pyodide and WASM
+assets keep their bytes. CAD preparation keeps its previous release. Records
+are separate from ordinary decisions and do not imply manufacturing qualification.
+Other session families still use their existing exports.

@@ -80,6 +80,11 @@
       "path": "releases/adaptive-completion-cache-20260920/cad/release.json",
       "sha256": "e4c8f7bdb174dd96c1ab9bca54510234d6e9e8906a17c1ab689dca20ad5cd9e4",
       "size_bytes": 2677
+    },
+    {
+      "path": "releases/adaptive-browser-transitions-20260920/runtime/release.json",
+      "sha256": "52ab6eb225aeda594339da6b9aa4d0afe2fc678c922c411b41b341c1943baa40",
+      "size_bytes": 6366
     }
   ]
 }
