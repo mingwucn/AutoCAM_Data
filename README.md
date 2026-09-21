@@ -206,3 +206,14 @@ without publishing material. Exactly seven Python archive members change; the
 twelve catalogue examples, inputs, models, Pyodide, WASM and separate CAD release
 retain their bytes. These recording changes do not qualify a model or a
 manufacturing process.
+
+## Cylindrical material records (2026-09-21)
+
+`releases/adaptive-cylindrical-transitions-20260921/runtime/` adds material records for supported cylindrical
+choice sessions and policy wrappers. Records retain inherited turning, tool
+exchange and indexed milling history, with accepted material separate from
+ordinary rejected decisions. Eight Python archive members change; the twelve
+catalogue cases and existing geometry, models, Pyodide, WASM and CAD assets
+retain their bytes. Full-size correctness was checked separately; operations
+on that case take minutes and are not interactive. This release grants no
+model admission, industrial support or manufacturing qualification.

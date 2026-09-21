@@ -100,6 +100,11 @@
       "path": "releases/adaptive-mill-turn-transitions-20260921/runtime/release.json",
       "sha256": "33f9f5552fecdcae03594f00080ba715b4761756837cc5ee6bf22aaf2327973b",
       "size_bytes": 6366
+    },
+    {
+      "path": "releases/adaptive-cylindrical-transitions-20260921/runtime/release.json",
+      "sha256": "962ccc5cc3f9e76e1910e9b402aa21803d1a23e2f1e169aa12c5fe29e918ae6f",
+      "size_bytes": 6366
     }
   ]
 }

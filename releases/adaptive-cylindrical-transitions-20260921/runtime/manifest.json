@@ -1,0 +1,190 @@
+{
+  "cases": [
+    {
+      "id": "r5-drill-synthetic",
+      "initial": {
+        "path": "initial.bin",
+        "sha256": "1e9e24259f42a0695e7cf0dc7255b7e7f9dc273150ed32bad18357f0da2c61f7"
+      },
+      "seed": 0,
+      "task": {
+        "path": "task.json",
+        "sha256": "bc4ebf982b0f541df354be53ff69c0f3fb89e6b348d3c46ec5b40c3718d7b09e"
+      },
+      "title": "R5 synthetic drill: prepare, preview and execute"
+    },
+    {
+      "id": "r5-drill-two-lengths",
+      "initial": {
+        "path": "finite-drills/initial.bin",
+        "sha256": "1e9e24259f42a0695e7cf0dc7255b7e7f9dc273150ed32bad18357f0da2c61f7"
+      },
+      "seed": 0,
+      "task": {
+        "path": "finite-drills/task.json",
+        "sha256": "963a152847483db8cd286c75c28a29b591f4f6636fbd0f65ced6159fadf7ea2a"
+      },
+      "title": "R5 drill choice: 8 mm or 20 mm reach"
+    },
+    {
+      "id": "r5-face-two-lengths",
+      "initial": {
+        "path": "finite-face/initial.bin",
+        "sha256": "38e525a9d8abda41edba99776d15580805f4a5f872044c8612528a3054b06841"
+      },
+      "seed": 0,
+      "task": {
+        "path": "finite-face/task.json",
+        "sha256": "f23037739591df3c6f9dd754fdc26dadc78ac40a7d331fa12240d3e5fd4082f5"
+      },
+      "title": "Synthetic planar face: 40 \u00d7 30 mm; 15 or 25 mm reach"
+    },
+    {
+      "id": "r5-mill-turn-two-lengths",
+      "initial": {
+        "path": "finite-mill-turn/initial.bin",
+        "sha256": "cb2ed5aa32e6419b01208849aa41994bd80895fc4ade70eab48b42a44a26375e"
+      },
+      "seed": 0,
+      "task": {
+        "path": "finite-mill-turn/task.json",
+        "sha256": "f04f419f0905310be7dabd5c9c045c76befede53de50fbf876edf3be424c92ce"
+      },
+      "title": "Synthetic mill-turn: turning, facing, drilling; two tool lengths"
+    },
+    {
+      "id": "r5-full-mill-turn-two-lengths",
+      "initial": {
+        "path": "full-mill-turn/initial.bin",
+        "sha256": "cb2ed5aa32e6419b01208849aa41994bd80895fc4ade70eab48b42a44a26375e"
+      },
+      "seed": 0,
+      "task": {
+        "path": "full-mill-turn/task.json",
+        "sha256": "130c87cc70f01e5915e1ab9a1a650e4808b136f94a027977ab8f60fed793799e"
+      },
+      "title": "Synthetic mill-turn from initial stock: turning, facing, drilling; two tool lengths"
+    },
+    {
+      "id": "r5-mixed-learning-two-lengths",
+      "initial": {
+        "path": "mixed-learning/initial.bin",
+        "sha256": "cb2ed5aa32e6419b01208849aa41994bd80895fc4ade70eab48b42a44a26375e"
+      },
+      "seed": 0,
+      "task": {
+        "path": "mixed-learning/task.json",
+        "sha256": "686db12d01696666cc9f570f5db8c0d94d2c6e4de148c3b16eb9ff87d7ae0640"
+      },
+      "title": "Synthetic learning gym: turning, face milling and drilling; local weights and recorded actions"
+    },
+    {
+      "id": "turn_four_faces",
+      "initial": {
+        "path": "retained/turn_four_faces/initial.bin",
+        "sha256": "9b36c70dc4df227f23e7d11205b8defbf42435598f73b4ec303294e32c561e95"
+      },
+      "seed": 0,
+      "task": {
+        "path": "retained/turn_four_faces/task.json",
+        "sha256": "bcbb94cf12ede9c892cde7ba2d3e5560686f506bf83674b987648a005bf6890d"
+      },
+      "title": "Turn, then mill four indexed faces"
+    },
+    {
+      "comparison": {
+        "estimates": {
+          "path": "retained/comparison.json",
+          "sha256": "2ad3c97d4b452278221ed073b8e019059d23d8eb91d5cc058e3b785ed3ba8e85"
+        },
+        "highTask": {
+          "path": "retained/high-index-task.json",
+          "sha256": "4e41592310182172a540ef4acc11316ec5b49452c061e903b0ce718da0797ffb"
+        },
+        "kind": "equivalent-groove-1"
+      },
+      "id": "common_groove",
+      "initial": {
+        "path": "retained/initial.bin",
+        "sha256": "1eec973a542352d045d0d13625c24ca266f1c92d663af4fae6005350554b53e0"
+      },
+      "seed": 0,
+      "task": {
+        "path": "retained/task.json",
+        "sha256": "134f699413254b76ad6873a65d30385bb75a97bac67e9811db6ad1c3b3d2aebc"
+      },
+      "title": "Curved groove: ball tip or indexed flank"
+    },
+    {
+      "id": "r5-upstream-fixture-shadow",
+      "initial": {
+        "path": "fixture-shadow/initial.bin",
+        "sha256": "0dea1e4acdfdcbdaed92e3a6b34850822cdaa1d8227e957a8d20d22d18545e26"
+      },
+      "seed": 0,
+      "task": {
+        "path": "fixture-shadow/task.json",
+        "sha256": "834fd0290908f5dea8f33add7886ba061e1c8afa1a8d2c33a180fd593f467c33"
+      },
+      "title": "Shadow demonstration: upstream fixture blocks face milling"
+    },
+    {
+      "id": "r5-curved-fixture-shadow",
+      "initial": {
+        "path": "curved-fixture-shadow/initial.bin",
+        "sha256": "0dea1e4acdfdcbdaed92e3a6b34850822cdaa1d8227e957a8d20d22d18545e26"
+      },
+      "seed": 0,
+      "task": {
+        "path": "curved-fixture-shadow/task.json",
+        "sha256": "5016f394592fb86924efa0a017cab4764909774eb2273d22be5d982e23e98780"
+      },
+      "title": "Curved shadow: round fixture blocks face milling"
+    },
+    {
+      "id": "r5-annular-axial-shadow",
+      "initial": {
+        "path": "annular-axial/initial.bin",
+        "sha256": "0dea1e4acdfdcbdaed92e3a6b34850822cdaa1d8227e957a8d20d22d18545e26"
+      },
+      "seed": 0,
+      "task": {
+        "path": "annular-axial/task.json",
+        "sha256": "bc4ae561b74807fe8146c5dd831558538c3faf2ff2e98fd4b9436095d047479b"
+      },
+      "title": "Hollow fixture: bore along engagement leaves an open centre"
+    },
+    {
+      "id": "r5-annular-transverse-shadow",
+      "initial": {
+        "path": "annular-transverse/initial.bin",
+        "sha256": "0dea1e4acdfdcbdaed92e3a6b34850822cdaa1d8227e957a8d20d22d18545e26"
+      },
+      "seed": 0,
+      "task": {
+        "path": "annular-transverse/task.json",
+        "sha256": "a68f9711dbf8609c4e68e3974c1eca4ab57b53aab1505cc9c1b039611b5aee0b"
+      },
+      "title": "Hollow fixture: upstream wall blocks the transverse bore"
+    }
+  ],
+  "codeSHA256": "bd45624a4ec3bedf9ff4b1c6c420880e28090f9ad4d8921cd1a51d0db3f61e38",
+  "historyQuery": true,
+  "model_files": [
+    {
+      "path": "mixed-learning/checkpoint.json",
+      "sha256": "b84e9c965bacf7249a84093c77c070391130a02ab0fa5bfed7cc75ca5c5cc5f4"
+    }
+  ],
+  "schema": "adaptive-ui-runtime-build-1",
+  "volumeQuery": {
+    "module": {
+      "path": "retained/volume-query.mjs",
+      "sha256": "783e7c77f06714c744f8047b258359bb6238d39a1944ce4a6b088f87de6c90fc"
+    },
+    "wasm": {
+      "path": "retained/volume-query.wasm",
+      "sha256": "6c2fc781e3a158dd56b2af1726335b05f70eb5270079804fabdbb171cc1a896e"
+    }
+  }
+}
