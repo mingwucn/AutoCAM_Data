@@ -195,3 +195,14 @@ Exactly two Python archive members change; the twelve catalogue examples, models
 Pyodide, WASM and separate CAD release retain their existing bytes. Records
 supplement ordinary decisions. Full/mixed/cylindrical capture remains separate
 work; these records do not confer model or manufacturing qualification.
+
+## Mill-turn transition records (2026-09-21)
+
+`releases/adaptive-mill-turn-transitions-20260921/runtime/` adds material
+records for compound, full initial-stock and mixed-learning sessions. Accepted
+turning history continues through transfer, indexing, tool exchange, face milling
+and drilling. Records supplement ordinary decisions and preserve rejected actions
+without publishing material. Exactly seven Python archive members change; the
+twelve catalogue examples, inputs, models, Pyodide, WASM and separate CAD release
+retain their bytes. These recording changes do not qualify a model or a
+manufacturing process.
