@@ -105,6 +105,11 @@
       "path": "releases/adaptive-cylindrical-transitions-20260921/runtime/release.json",
       "sha256": "962ccc5cc3f9e76e1910e9b402aa21803d1a23e2f1e169aa12c5fe29e918ae6f",
       "size_bytes": 6366
+    },
+    {
+      "path": "releases/adaptive-capture-snapshot-reuse-20260921/runtime/release.json",
+      "sha256": "754ec77b3378dab6d6a167cf7cd9e9daa03c0c1dff693bc3d57fee12418192cb",
+      "size_bytes": 6366
     }
   ]
 }

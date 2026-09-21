@@ -217,3 +217,13 @@ catalogue cases and existing geometry, models, Pyodide, WASM and CAD assets
 retain their bytes. Full-size correctness was checked separately; operations
 on that case take minutes and are not interactive. This release grants no
 model admission, industrial support or manufacturing qualification.
+
+## Snapshot capture reuse (2026-09-21)
+
+`releases/adaptive-capture-snapshot-reuse-20260921/runtime/` reuses verified hashes for the same immutable snapshot
+within a material-record capture sink. One Python archive member changes.
+Complete ordinary and material outputs match the previous runtime in the
+verified workflows. All twelve catalogue cases, geometry, task/model data,
+Pyodide, WASM and CAD assets retain their bytes. Unknown, mutable and packed
+snapshots still undergo strict encoding. Full-size operations remain slow;
+this release does not qualify interactive latency, a model or manufacturing.
