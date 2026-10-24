@@ -13,8 +13,8 @@ files and the report/tutorial are not part of that legacy release.
 
 Consumers should reference an exact Git commit in their raw.githubusercontent.com
 URL. The catalog records SHA-256 and byte length for each asset. `MANIFEST.json`
-identifies all release files and the verified parent export from which they
-were split. Per-case scenes, actions, dimensions, units and reachable masks
+identifies the legacy v1 release files and the verified parent export from
+which they were split. Per-case scenes, actions, dimensions, units and reachable masks
 are retained without numerical changes. `verification/parity.json` contains
 916 saved reference fixtures used by the UI tests; it is not loaded by the gym.
 
@@ -25,7 +25,10 @@ example whose Milling actions consume the material left by Turning. Users may
 switch processes without resetting the shared state. These examples are
 explanatory geometric replays, not optimal or manufacturing-recommended routes.
 
-Run `python verify.py` to check every release file against the manifest.
+Run `python verify.py` to check the legacy files in `MANIFEST.json` and the
+runtime/CAD releases listed in `RUNTIME_RELEASES.json`. Other retained release
+directories and separate verification fixture packages are outside this command's
+coverage.
 The UI additionally validates supported schemas, geometry dimensions, action
 references and downloaded bytes before constructing a session.
 
@@ -52,7 +55,8 @@ The selected geometry profiles are experimental and do not support all CAD.
 This release preserves the tested historical runtime and does not imply
 compatibility with newer task5 model checkpoints or trained-policy qualification.
 
-`python verify.py` checks the legacy data and both runtime releases. The UI's
+`python verify.py` checks the legacy data and the runtime/CAD releases listed in
+`RUNTIME_RELEASES.json`. The UI's
 local preflight covers the six-action turning/transfer/four-face example, three
 ball/flank groove routes, and the supported STEP fixture with exact decision
 downloads and restores. This is geometric verification, not an optimal workplan
